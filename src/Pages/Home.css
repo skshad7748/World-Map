@@ -1,0 +1,16 @@
+.country-card-wrapper{
+    display:flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.container-home{
+    margin: 10px;
+    background: wheat;
+}
+
+.filters-wrapper{
+    margin-bottom: 20px;
+    background: rgb(204, 211, 224);
+
+}
